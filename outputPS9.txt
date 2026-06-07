@@ -1,0 +1,22 @@
+City Surveillance Agent - PS9
+Greedy Best First Search - Surveillance Route
+=================================================================
+
+Intermediate Paths:
+  Step  1: Marina Beach --> Mahabalipuram
+  Step  2: Mahabalipuram --> Kovalam Beach
+  Step  3: Kovalam Beach --> Vandalur Zoo
+  Step  4: Vandalur Zoo --> Mahabalipuram
+  Step  5: Mahabalipuram --> Government Museum
+  Step  6: Government Museum --> Marina Beach
+  Step  7: Marina Beach --> Mahabalipuram
+  Step  8: Mahabalipuram --> Kovalam Beach
+  Step  9: Kovalam Beach --> Muttukadu
+
+-----------------------------------------------------------------
+Final Path:
+Marina Beach --> Mahabalipuram --> Kovalam Beach --> Vandalur Zoo --> Mahabalipuram --> Government Museum --> Marina Beach --> Mahabalipuram --> Kovalam Beach --> Muttukadu
+
+Total Distance   : 321 km
+Total Steps      : 9
+Unique Landmarks : 6
